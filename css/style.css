@@ -34,7 +34,7 @@
   .radio {
     grid-column-start: 1;
     grid-column-end: 3;
-    /* background: #575294; */
+    /*background: #575294;*/
     color: #702082;
   }
 
@@ -74,6 +74,7 @@
     background-color: #45a049;
   }
 
+  /*Creating the label for google font*/
   label {
-    font-family: "Noto Sans", sans-serif;
+    font-family: "Noto Serif", serif;
   }
